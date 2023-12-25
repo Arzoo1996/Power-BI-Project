@@ -3,7 +3,7 @@
 Objectives :
 This project consist of various reports to uncover insights of the business from the data of last 4 financials years in Atliq Hardware. It works on the Brick and Mortar, retailer and distribution along with direct selling model using e commerece and physical stores all around the world.
 
-#Challenges and Actions:
+##Challenges and Actions:
 * Data cleaning and Data Transformation using Power Query.
 * Forming valid relationship in data modeling using Star and Snowflake Schema in Power BI
 * Quick Data validation against benchmark numbers provided by clients and stakeholders
