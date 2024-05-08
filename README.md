@@ -1,9 +1,9 @@
 # Power-BI-Project
 
-Objectives :
+# Objectives :
 This project consist of various reports to uncover insights of the business from the data of last 4 financials years in Atliq Hardware. It works on the Brick and Mortar, retailer and distribution along with direct selling model using e commerece and physical stores all around the world.
 
-#Challenges and Actions:
+# Challenges and Actions:
 * Data cleaning and Data Transformation using Power Query.
 * Forming valid relationship in data modeling using Star and Snowflake Schema in Power BI
 * Quick Data validation against benchmark numbers provided by clients and stakeholders
@@ -14,7 +14,7 @@ This project consist of various reports to uncover insights of the business from
 * UAT i.e User acceptance test was performed using Power Bi Service
 * Made modifications based on the reviews.
 
-Results / Outcomes: 
+# Results / Outcomes: 
 * Helped them to take data driven decisions
 * Found the key areas to improve
 * Monitoring of business across different zones, countries, region, customer, market, product was made easy using interactive dashborad
